@@ -6,7 +6,7 @@ package study.kotlin
 class App {
     val greeting: String
         get() {
-            return "Hello world."
+            return "test"
         }
 }
 
